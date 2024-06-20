@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamzeh Abdulrazzaq</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A recent college graduaten</h3>
 
-- 🔭 I’m currently working on **Self Development Projects**
+- 🔭 I’m currently working on **Freelancing**
 
 - 🌱 I’m currently learning **AI, Python and Data Analytics**
 
