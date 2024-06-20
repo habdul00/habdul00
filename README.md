@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamzeh Abdulrazzaq</h1>
-<h3 align="center">A recent college graduaten</h3>
+<h3 align="center">A recent college graduate</h3>
 
 - 🔭 I’m currently working on **Freelancing**
 
