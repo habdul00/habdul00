@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI, Python and Data Analytics**
 
-- 👨‍💻 All of my projects are available at **My Repos**
+- 👨‍💻 All of my projects are available at **<a href="https://habdul00.github.io/Hamzeh1.github.io/"**
 
 - 📫 How to reach me **hamzehabdul@gmail.com**
 
